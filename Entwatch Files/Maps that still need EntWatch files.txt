@@ -14,5 +14,4 @@ ze_tesv_skyrim_v5_6
 ze_tilex_ultimate_v2_13
 ze_toaster_p3
 ze_tyranny_v5_csgo3
-ze_urban_laby_of_death_p2
 ze_valkvang_v1_2
