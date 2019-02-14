@@ -1,5 +1,4 @@
 ze_bioshock_v6_2_csgo7
-ze_lotr_helms_deep_v5_p6
 ze_lotr_mines_of_moria_p2
 ze_LOTR_Mount_Doom_p3
 ze_pizzatime_v9
