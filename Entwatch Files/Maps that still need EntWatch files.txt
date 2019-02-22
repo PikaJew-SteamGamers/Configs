@@ -6,7 +6,6 @@ ze_predator_ultimate_p7
 ze_rizomata_a44
 ze_rizomata_b43
 ze_surf_danger_p2
-ze_surf_facility_p4
 ze_surf_froyo_lite_v1_5
 ze_surf_froyo_v2
 ze_tesv_skyrim_v5_6
