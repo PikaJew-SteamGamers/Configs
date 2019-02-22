@@ -9,6 +9,5 @@ ze_surf_danger_p2
 ze_surf_froyo_lite_v1_5
 ze_surf_froyo_v2
 ze_tesv_skyrim_v5_6
-ze_tilex_ultimate_v2_13
 ze_toaster_p3
 ze_valkvang_v1_2
